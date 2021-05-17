@@ -1,4 +1,4 @@
-# Author: Yiran Liu
+# Author: Warren Liu
 # Date: 5/17/2021
 # First web crawler project
 # Project: Web crawler from Letto website
