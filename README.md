@@ -4,7 +4,8 @@
 
 ## About ##
 * Wanted to train an AI about Lotto based on winning numbers history, but I do not have experience with web clawler. Thus, I decided to get all winning numbers from Lotto myself. This is my first project about web clawler.
-*  Version 0.2 Updates:
+## Updates ##
+* Version 0.2 
    1. Added track for the task
    2. Now support year under 2001 
        year above 2001 have 7 numbers [5 numbers + 1 powerball + 1 power play number], year under 2001 have 6 numbers [5 numbers + 1 powerball]
