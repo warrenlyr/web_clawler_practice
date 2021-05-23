@@ -52,6 +52,6 @@ def delete_year():
 
 
 if __name__ == '__main__':
-    #merge_file()
-    #delete_date()
+    merge_file()
+    delete_date()
     delete_year()
