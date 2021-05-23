@@ -10,7 +10,7 @@
        year above 2001 have 7 numbers [5 numbers + 1 powerball + 1 power play number], year under 2001 have 6 numbers [5 numbers + 1 powerball]
    3. Deleted the powerplay number from year 2021 - 2002 because it is unnecessary
    4. Removed year 2001 because it contains both 7 numbers and 6 numbers in different month
-   5. Now can use Merge_file.py to merge mutiple data files into one file
+   5. Now can use file_merge.py to merge mutiple data files into one file
 
 ## To run ##
 ```
