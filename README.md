@@ -39,6 +39,7 @@ py data_analyze.py
 
 ## Requirements ##
 * Python 3
+* 
 **Packages**
 * requests
 * bs4
