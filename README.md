@@ -8,25 +8,22 @@
 
 ## Updates ##
 * Version 0.2 - 5/22
-    1. Added track for the task
-    2. Now support year under 2001 
+    - Added track for the task
+    - Now support year under 2001 
        year above 2001 have 7 numbers [5 numbers + 1 powerball + 1 power play number], year under 2001 have 6 numbers [5 numbers + 1 powerball]
-    3. Deleted the powerplay number from year 2021 - 2002 because it is unnecessary
-    4. Removed year 2001 because it contains both 7 numbers and 6 numbers in different month
-    5. Now can use file_merge.py to merge mutiple data files into one file
+    - Deleted the powerplay number from year 2021 - 2002 because it is unnecessary
+    - Removed year 2001 because it contains both 7 numbers and 6 numbers in different month
+    - Now can use file_merge.py to merge mutiple data files into one file
 * Version 0.3 - 5/23
-    1. Give up trainning an AI based on this data
-    2. Added data_analyze.py to calculate the top 20 winning numbers for the next game with probality
-    3. Closed this project
+    - ~~Give up trainning an AI based on this data~~
+    - Added data_analyze.py to calculate the top 20 winning numbers for the next game with probality
+    - Closed this project
 
 ## To run ##
+- py/py3/python3 based on different system
 ```
 py web_crawler.py
-```
-```
 py file_merge.py
-```
-```
 py data_analyze.py
 ```
 
