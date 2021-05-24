@@ -39,6 +39,7 @@ py data_analyze.py
 
 ## Requirements ##
 * Python 3
+## Packages ##
 Package | Link
 -------- --------
 requests | https://pypi.org/project/requests/
