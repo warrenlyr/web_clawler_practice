@@ -1,5 +1,9 @@
 # web_clawler_first
+<<<<<<< Updated upstream
 <img src="docs/2111_t.png" width="348" height="282">
+=======
+![Image of Logo](docs/2111_t.png, width='50', hright='50')
+>>>>>>> Stashed changes
 Read this in other languages: [简体中文](docs/README_zh_CN.md)
 * Warren Liu
 * May 17 2021
