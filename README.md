@@ -15,7 +15,7 @@
     - Removed year 2001 because it contains both 7 numbers and 6 numbers in different month
     - Now can use file_merge.py to merge mutiple data files into one file
 * Version 0.3 - 5/23
-    - ~~Give up trainning an AI based on this data~~
+    - ~~Give up trainning an AI based on this data~~:skull:
     - Added data_analyze.py to calculate the top 20 winning numbers for the next game with probality
     - Closed this project
 
