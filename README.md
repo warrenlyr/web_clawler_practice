@@ -1,5 +1,5 @@
 # web_clawler_first
-[zh_CN version Readme](docs/README_zh_CN.md)
+Read this in other languages: [简体中文](docs/README_zh_CN.md)
 * Warren Liu
 * May 17 2021
 
