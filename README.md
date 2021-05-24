@@ -39,10 +39,10 @@ py data_analyze.py
 
 ## Requirements ##
 * Python 3
-## Packages ##
-Package | Link
--------- --------
-requests | https://pypi.org/project/requests/
-bs4 | https://pypi.org/project/beautifulsoup4/
-dateutil | https://pypi.org/project/python-dateutil/
-tqdm | https://pypi.org/project/tqdm/
+### Packages ###
+|   Package |   Link    |
+|-----------|-----------|
+|requests | https://pypi.org/project/requests/|
+|bs4 | https://pypi.org/project/beautifulsoup4/|
+|dateutil | https://pypi.org/project/python-dateutil/|
+|tqdm | https://pypi.org/project/tqdm/|
