@@ -1,5 +1,5 @@
 # web_clawler_first
-![Image of Logo](docs/2111_t.png)
+<img src="docs/2111_t.png" width="348" height="282">
 Read this in other languages: [简体中文](docs/README_zh_CN.md)
 * Warren Liu
 * May 17 2021
